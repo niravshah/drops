@@ -4,10 +4,10 @@ $(document).ready(function () {
     //Google Map
     if (typeof google != 'undefined') {
         var mapCanvas = document.getElementById('map-canvas');
-        var myLatlng = new google.maps.LatLng(60.391263, 5.322054); //your latitude and longitude
-                                                                    // here
+        var myLatlng = new google.maps.LatLng(18.934705, 72.834936);
+
         var mapOptions = {
-            zoom: 17,
+            zoom: 16,
             scrollwheel: false,
             center: myLatlng,
             styles: [{
@@ -65,12 +65,12 @@ $(document).ready(function () {
                     "stylers": [{"color": "#a2daf2"}]
                 }]
         }
-        var map = new google.maps.Map(mapCanvas, mapOptions)
+        var map = new google.maps.Map(mapCanvas, mapOptions);
         var marker = new google.maps.Marker({
             position: myLatlng,
             icon: 'img/mapmarker.png',
             map: map,
-            title: 'title goes here'
+            title: 'Drops of Heaven'
         });
     }
 });					
