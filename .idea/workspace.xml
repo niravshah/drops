@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2b1525a-f661-4669-86c3-f68b015fd8f4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/service1.jpg" afterPath="$PROJECT_DIR$/public/img/service1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/service2.jpg" afterPath="$PROJECT_DIR$/public/img/service2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/service3.jpg" afterPath="$PROJECT_DIR$/public/img/service3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/service4.jpg" afterPath="$PROJECT_DIR$/public/img/service4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/service5.jpg" afterPath="$PROJECT_DIR$/public/img/service5.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/style.css" afterPath="$PROJECT_DIR$/public/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/map.js" afterPath="$PROJECT_DIR$/public/js/map.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/mc-validate.js" afterPath="$PROJECT_DIR$/public/js/mc-validate.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.html" afterPath="$PROJECT_DIR$/views/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/layout.html" afterPath="$PROJECT_DIR$/views/layout.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,8 +24,8 @@
       <file leaf-file-name="layout.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-285">
-              <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+            <state relative-caret-position="1260">
+              <caret line="84" column="51" lean-forward="false" selection-start-line="84" selection-start-column="51" selection-end-line="84" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -38,19 +34,38 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="346" column="80" lean-forward="false" selection-start-line="346" selection-start-column="80" selection-end-line="346" selection-end-column="80" />
+            <state relative-caret-position="330">
+              <caret line="834" column="30" lean-forward="true" selection-start-line="834" selection-start-column="30" selection-end-line="834" selection-end-column="30" />
               <folding>
                 <element signature="n#div#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#!!top" expanded="false" />
                 <element signature="n#section#0;n#!!top" expanded="false" />
-                <element signature="n#section#2;n#!!top" expanded="false" />
+                <element signature="n#section#1;n#!!top" expanded="false" />
                 <element signature="n#section#3;n#!!top" expanded="false" />
                 <element signature="n#section#4;n#!!top" expanded="false" />
                 <element signature="n#div#2;n#!!top" expanded="false" />
                 <element signature="n#div#3;n#!!top" expanded="false" />
-                <element signature="n#section#5;n#!!top" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mc-validate.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/mc-validate.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="404">
+              <caret line="1106" column="21" lean-forward="true" selection-start-line="1106" selection-start-column="21" selection-end-line="1106" selection-end-column="21" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -60,9 +75,14 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>map</find>
-      <find>callout</find>
       <find>contact_bg</find>
+      <find>callout</find>
+      <find>$</find>
+      <find>₹</find>
     </findStrings>
+    <replaceStrings>
+      <replace>₹</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -84,9 +104,10 @@
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/config.js" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/views/layout.html" />
         <option value="$PROJECT_DIR$/public/js/map.js" />
         <option value="$PROJECT_DIR$/public/css/style.css" />
+        <option value="$PROJECT_DIR$/public/js/mc-validate.js" />
+        <option value="$PROJECT_DIR$/views/layout.html" />
         <option value="$PROJECT_DIR$/views/index.html" />
       </list>
     </option>
@@ -744,12 +765,12 @@
       <workItem from="1491737326333" duration="3556000" />
       <workItem from="1491941340953" duration="2875000" />
       <workItem from="1492165951782" duration="593000" />
-      <workItem from="1492369306817" duration="3582000" />
+      <workItem from="1492369306817" duration="4661000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12482000" />
+    <option name="totallyTimeSpent" value="13561000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="835" extended-state="6" />
@@ -824,12 +845,11 @@
             <element signature="n#div#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#!!top" expanded="false" />
             <element signature="n#section#0;n#!!top" expanded="false" />
-            <element signature="n#section#2;n#!!top" expanded="false" />
+            <element signature="n#section#1;n#!!top" expanded="false" />
             <element signature="n#section#3;n#!!top" expanded="false" />
             <element signature="n#section#4;n#!!top" expanded="false" />
             <element signature="n#div#2;n#!!top" expanded="false" />
             <element signature="n#div#3;n#!!top" expanded="false" />
-            <element signature="n#section#5;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -850,12 +870,11 @@
             <element signature="n#div#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#!!top" expanded="false" />
             <element signature="n#section#0;n#!!top" expanded="false" />
-            <element signature="n#section#2;n#!!top" expanded="false" />
+            <element signature="n#section#1;n#!!top" expanded="false" />
             <element signature="n#section#3;n#!!top" expanded="false" />
             <element signature="n#section#4;n#!!top" expanded="false" />
             <element signature="n#div#2;n#!!top" expanded="false" />
             <element signature="n#div#3;n#!!top" expanded="false" />
-            <element signature="n#section#5;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -876,12 +895,11 @@
             <element signature="n#div#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#!!top" expanded="false" />
             <element signature="n#section#0;n#!!top" expanded="false" />
-            <element signature="n#section#2;n#!!top" expanded="false" />
+            <element signature="n#section#1;n#!!top" expanded="false" />
             <element signature="n#section#3;n#!!top" expanded="false" />
             <element signature="n#section#4;n#!!top" expanded="false" />
             <element signature="n#div#2;n#!!top" expanded="false" />
             <element signature="n#div#3;n#!!top" expanded="false" />
-            <element signature="n#section#5;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -953,14 +971,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="1088" column="47" lean-forward="false" selection-start-line="1088" selection-start-column="47" selection-end-line="1088" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/js/map.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -969,28 +979,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="1106" column="21" lean-forward="true" selection-start-line="1106" selection-start-column="21" selection-end-line="1106" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/mc-validate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/views/layout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-285">
-          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        <state relative-caret-position="1260">
+          <caret line="84" column="51" lean-forward="false" selection-start-line="84" selection-start-column="51" selection-end-line="84" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="346" column="80" lean-forward="false" selection-start-line="346" selection-start-column="80" selection-end-line="346" selection-end-column="80" />
+        <state relative-caret-position="330">
+          <caret line="834" column="30" lean-forward="true" selection-start-line="834" selection-start-column="30" selection-end-line="834" selection-end-column="30" />
           <folding>
             <element signature="n#div#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#!!top" expanded="false" />
             <element signature="n#section#0;n#!!top" expanded="false" />
-            <element signature="n#section#2;n#!!top" expanded="false" />
+            <element signature="n#section#1;n#!!top" expanded="false" />
             <element signature="n#section#3;n#!!top" expanded="false" />
             <element signature="n#section#4;n#!!top" expanded="false" />
             <element signature="n#div#2;n#!!top" expanded="false" />
             <element signature="n#div#3;n#!!top" expanded="false" />
-            <element signature="n#section#5;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
