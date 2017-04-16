@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="true" />
-  <component name="SbtLocalSettings">
-    <option name="modificationStamps">
-      <map>
-        <entry key="$USER_HOME$/Downloads/funsets" value="1462316240000" />
-        <entry key="$USER_HOME$/Downloads/recfun" value="1462369130000" />
-      </map>
-    </option>
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
   <component name="masterDetails">
     <states>
       <state key="ProjectJDKs.UI">
